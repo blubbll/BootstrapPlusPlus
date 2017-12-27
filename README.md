@@ -1,4 +1,4 @@
-<img src=".../bootstrap-plus-plus-social.png">
+<img src="https://raw.githubusercontent.com/arafkarim/BootstrapPlusPlus/master/images/bpp.png">
 
 # Bootstrap++
 BootstrapPlusPlus is an open source project based on Bootstrap 4.0 CSS framework. It has all the Bootstrap styles with new look and some additional styles and ready-made components for web developers or designers to create elegant web apps. 
