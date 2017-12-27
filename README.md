@@ -2,30 +2,30 @@
 
 # Bootstrap++
 BootstrapPlusPlus is an open source project based on Bootstrap 4.0 CSS framework. It has all the Bootstrap styles with new look and some additional styles and ready-made components for web developers or designers to create elegant web apps. 
-It has some additional classes to create additional styles, these are - 
-.btn-rounded
-.btn-circle 
-.btn-floating
-.card-testimonial
-.carousel-caption-centered
-.modal-top
-.modal-right
-.modal-bottom
-.modal-left
-.pagination-circle
+It has some additional classes to create additional styles, these are -<br> 
+.btn-rounded<br>
+.btn-circle<br> 
+.btn-floating<br>
+.card-testimonial<br>
+.carousel-caption-centered<br>
+.modal-top<br>
+.modal-right<br>
+.modal-bottom<br>
+.modal-left<br>
+.pagination-circle<br>
 
 Also it has Material color palette and Social media color palette.
 
 # Usage
-Download the <b>bpp.css</b> and place it after Bootstrap's stylesheet, Like this - 
--- css/
----- bootstrap.css
----- <b>bpp.css</b>
----- style.css
--- js/
----- jquery.js
----- popper.js
----- bootstrap.js
+Download the <b>bpp.css</b> and place it after Bootstrap's stylesheet, Like this -<br> 
+-- css/<br>
+---- bootstrap.css<br>
+---- <b>bpp.css</b><br>
+---- style.css<br>
+-- js/<br>
+---- jquery.js<br>
+---- popper.js<br>
+---- bootstrap.js<br>
 
 # Customization 
 BootstrapPlusPlus is open source and you’re welcome to modify it.
